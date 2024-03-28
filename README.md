@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TangAD8
-- 👀 I’m interested in Miffy
+- 👀 I’m interested in building out my tech skills.
 - 🌱 I’m currently learning Python and Matlab.
 - ⚡ Fun fact: Miffy
